@@ -13,3 +13,9 @@ It's a fan-made project inspired by the classic Sly Cooper games.
 Watch how the model was made step by step on YouTube: [Low Poly Sly Cooper Modeling](https://www.youtube.com/watch?v=LmgpYu6MNIY&list=PLEVlMrNDkKvMocLcyj7-ksZhQHLRrRHXR)
 
 ## Preview
+![Sly Cooper Model Preview](./preview.jpg)
+
+---
+
+Thanks for checking out the project!  
+If you found it helpful, give it a ⭐ and subscribe to the channel for more!
